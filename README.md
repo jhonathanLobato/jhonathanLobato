@@ -7,7 +7,7 @@
 - 🔭 Sou desenvolvedor júnior.
 - 🌱 Atualmente estou aprendendo front-end.
 - 👨‍💻 Pretendo me tornar um desenvolvedor full-stack.
-- 🧙🏻 "Pois um mago nunca se atrasa Frodo Bolseiro, nem se adianta, ele chega exatamente quando pretende chegar."
+- 🧙🏻 "Pois um mago nunca se atrasa, nem se adianta, ele chega exatamente quando pretende chegar."
 
 ##
 
