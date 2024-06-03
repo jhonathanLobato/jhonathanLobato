@@ -1,12 +1,11 @@
 ##
 
-### Saudação visitante! Eu sou Jhonathan Lobato 👋
+### Saudação visitante! 👋
 
 ##
 
-- 🔭 Sou desenvolvedor júnior.
-- 🌱 Atualmente estou aperfeiçoando minhas habilidades em front-end.
-- 👨‍💻 Pretendo me tornar um desenvolvedor full-stack.
+- 👨‍💻 Sou desenvolvedor full-stack.
+- 🔭 Fique a vontade para ver meus projetos aqui.
 - 🧙🏻 "Pois um mago nunca se atrasa, nem se adianta, ele chega exatamente quando pretende chegar."
 
 ##
