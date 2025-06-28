@@ -19,6 +19,7 @@ Sou um profissional DevOps, apaixonado por tecnologia, automação e infraestrut
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="KUBERNETES"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="JENKINS"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="TERRAFORM"/></code>
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" title="Ansible"/></code>
 </div>
 
 ##
