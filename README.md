@@ -65,5 +65,6 @@ Confira meus projetos e mais sobre o que faço no meu portfólio online!
   <a href="https://github.com/jhonathanLobato">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonathanLobato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathanLobato&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonathanlobato&theme=dark&hide_border=true)"/>
   </a>
 </div>
