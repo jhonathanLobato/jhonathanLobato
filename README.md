@@ -3,7 +3,7 @@
 ### Saudação visitante! 👋
 Sou um profissional DevOps, apaixonado por tecnologia, automação e infraestrutura.
 - 🌌 Sou profissional DevOps.
-- 👨‍💻 Como hobby sou full-stack web.
+- 👨‍💻 Como hobby sou dev web.
 - 🔭 Fique a vontade para ver meus projetos.
 - 🧙🏻 "Pois um mago nunca se atrasa, nem se adianta, ele chega exatamente quando pretende chegar."
 
@@ -13,14 +13,14 @@ Sou um profissional DevOps, apaixonado por tecnologia, automação e infraestrut
 <div style="display: inline-block">
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="LINUX"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="GIT"/></code>
-  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="GO"/></code>
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="PYTHON"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS"/></code>
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="AZURE"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="DOCKER"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="KUBERNETES"/></code>
-  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="JENKINS"/></code>
+  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GITHUB ACTIONS"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="TERRAFORM"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" title="Ansible"/></code>
-  <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original.svg" title="Vagrant"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" title="Prometheus"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" title="Grafana"/></code>
 </div>
@@ -28,7 +28,7 @@ Sou um profissional DevOps, apaixonado por tecnologia, automação e infraestrut
 ##
 
 ### 🎨 Além do DevOps, também desenvolvo!
-Gosto de programar e construir aplicações, seja para automatizar tarefas, criar ferramentas para DevOps ou apenas por diversão. Tenho experiência com as seguintes tecnologias:
+Gosto de programar e construir aplicações, seja para automatizar tarefas, criar ferramentas para DevOps ou apenas por desafio. Tenho experiência com as seguintes tecnologias:
 <div>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title = "HTML"/></code>
   <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title = "CSS"/></code>
@@ -65,6 +65,5 @@ Confira meus projetos e mais sobre o que faço no meu portfólio online!
   <a href="https://github.com/jhonathanLobato">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonathanLobato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathanLobato&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonathanlobato&theme=dark&hide_border=true)"/>
   </a>
 </div>
