@@ -56,7 +56,7 @@ Se quiser trocar uma ideia sobre **DevOps, desenvolvimento ou até sobre aquela 
 
 ### 🌐 Meu Portfólio
 Confira meus projetos e mais sobre o que faço no meu portfólio online!  
-👉 [**Acesse meu portfólio aqui**](https://jhonathanlobato.github.io/Portfolio/)
+👉 [**Acesse meu portfólio aqui**](https://jhonathanlobato.netlify.app/)
 
 ##
 
